@@ -3395,7 +3395,7 @@ socket_source_new (GSocket      *socket,
 }
 
 /**
- * g_socket_create_source: (skip)
+ * g_socket_create_source:
  * @socket: a #GSocket
  * @condition: a #GIOCondition mask to monitor
  * @cancellable: (allow-none): a %GCancellable or %NULL
